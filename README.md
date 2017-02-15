@@ -1,2 +1,2 @@
 # First
-Numer jeden
+Moje pierwsze repozytorium
